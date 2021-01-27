@@ -33,7 +33,7 @@ And I love communicating, exercising and cat. 😺
 - **Ajou Univ.** - Multiple majors in mathematics, computers and software *(Mar 2014 - Feb 2020)*  
   
 
-- **DANAL CO.** - Data Intelligence, Machine learning developer *(Dec 2019 ~)*  
+- **DANAL CO.** - Android App developer *(Dec 2019 ~)*  
   
 
 
