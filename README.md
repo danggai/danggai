@@ -30,7 +30,7 @@ And I love communicating, exercising and cat. 😺
 
 
 ### 🎲 Experience  
-- **Ajou Univ.** - Multiple majors in mathematics, computers and software *(Mar 2014 - Feb 2020)*  
+- **Ajou Univ.** - Multiple majors in mathematics, computers & software *(Mar 2014 - Feb 2020)*  
   
 
 - **DANAL CO.** - Android App developer *(Dec 2019 ~)*  
