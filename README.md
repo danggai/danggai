@@ -10,7 +10,9 @@
 <a href="https://linkedin.com/in/donggi-hong-8a9000205" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://danggai.github.io/" target="_blank">MY BLOG
+<a href="https://danggai.github.io/" target="_blank">MY BLOG (old)
+</a>  
+<a href="https://velog.io/@danggai" target="_blank">MY BLOG (new)
 </a>  
   
 
@@ -44,7 +46,7 @@ And I love communicating, exercising and cat. 😺
 - 🌱 I am currently studying how to make a natural UI/UX with excellent usability and Retrofit.  
   
 
-- 📝 I regularly write articles on my [blog](https://danggai.github.io/).  
+- 📝 I regularly write articles on my [blog](https://velog.io/@danggai).  
   
 
 <br/>  
