@@ -22,10 +22,9 @@
 
 Glad to See you.
 
-I am an Android developer who uses Kotlin, Rx, MVVM. 👨‍💻
+I am an Android developer who uses Kotlin, Coroutine, MVVM. 👨‍💻
 
-And I love communicating, exercising and cat. 😺
-  
+And I also did a little bit of web front-end development. 😄
   
 
 
@@ -54,11 +53,12 @@ And I love communicating, exercising and cat. 😺
 
 
 
-### 📜 I'm learnning in..
+### 📜 I'm interested in..
 
 - MVI Pattern
 
 - Jetpack Compose
+
 
 
 
