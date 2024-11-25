@@ -33,7 +33,7 @@ And I also did a little bit of web front-end development. 😄
 - **Ajou Univ.** - Multiple majors in mathematics, computers & software *(Mar 2014 - Feb 2020)*  
   
 
-- **DANAL CO.**
+- **[DANAL CO. ](https://www.danalpay.com/main/main.aspx)**
    - Android App developer *(Dec 2019 ~ Nov 2024)*
  
    - Web FrontEnd developer (with Vue3, TS) *(Mar 2024 ~ Nov 2024)*
@@ -42,10 +42,11 @@ And I also did a little bit of web front-end development. 😄
 
 
 ### 🌺 Summary  
-- 🥕 I’m currently working on [DANAL CO. ](https://www.danalpay.com/main/main.aspx)as a android developer.  
+
+- 🥕 I’m worked at [DANAL CO. ](https://www.danalpay.com/main/main.aspx)as a android developer.  
   
 
-- 🌱 I am currently studying how to make a natural UI/UX with excellent usability and Retrofit.  
+- 🌱 I am currently adapting to become familiar with Android trends.
   
 
 - 📝 I regularly write articles on my [blog](https://velog.io/@danggai).
