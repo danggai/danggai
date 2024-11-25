@@ -34,7 +34,10 @@ And I love communicating, exercising and cat. 😺
 - **Ajou Univ.** - Multiple majors in mathematics, computers & software *(Mar 2014 - Feb 2020)*  
   
 
-- **DANAL CO.** - Android App developer *(Dec 2019 ~)*  
+- **DANAL CO.**
+   - Android App developer *(Dec 2019 ~ Nov 2024)*
+ 
+   - Web FrontEnd developer (with Vue3, TS) *(Mar 2024 ~ Nov 2024)*
   
 
 
@@ -46,8 +49,18 @@ And I love communicating, exercising and cat. 😺
 - 🌱 I am currently studying how to make a natural UI/UX with excellent usability and Retrofit.  
   
 
-- 📝 I regularly write articles on my [blog](https://velog.io/@danggai).  
-  
+- 📝 I regularly write articles on my [blog](https://velog.io/@danggai).
+
+
+
+
+### 📜 I'm learnning in..
+
+- MVI Pattern
+
+- Jetpack Compose
+
+
 
 <br/>  
 
