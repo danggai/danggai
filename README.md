@@ -51,7 +51,7 @@ And I also did a little bit of web front-end development. 😄
 - 🌱 I am currently adapting to become familiar with Android trends.
   
 
-- 📝 I regularly write articles on my [blog](https://velog.io/@danggai).
+- 📝 I regularly write articles on my [blog](https://velog.io/@danggai). ([old](https://danggai.github.io/))
 
 
 ---
