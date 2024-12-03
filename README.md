@@ -25,8 +25,9 @@ Glad to See you.
 I am an Android developer who uses Kotlin, Coroutine, MVVM. 👨‍💻
 
 And I also did a little bit of web front-end development. 😄
-  
 
+  
+---
 
 
 ### 🎲 Experience  
@@ -39,6 +40,7 @@ And I also did a little bit of web front-end development. 😄
    - Web FrontEnd developer (with Vue3, TS) *(Mar 2024 ~ Nov 2024)*
   
 
+---
 
 
 ### 🌺 Summary  
@@ -52,6 +54,7 @@ And I also did a little bit of web front-end development. 😄
 - 📝 I regularly write articles on my [blog](https://velog.io/@danggai).
 
 
+---
 
 
 ### 📜 I'm interested in..
