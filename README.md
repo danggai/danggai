@@ -26,7 +26,7 @@ I am an Android developer who uses Kotlin, Coroutine, MVVM. 👨‍💻
 
 And I also did a little bit of web front-end development. 😄
 
-Here is my [Resume / Cover Letter](https://www.notion.so/d5973bcb67ab4eb08a9225cec1ff83ac)
+and, Here is my [Resume / Cover Letter](https://www.notion.so/d5973bcb67ab4eb08a9225cec1ff83ac).
 
 ---
 
