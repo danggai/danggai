@@ -1,4 +1,4 @@
-# Donggi Hong 
+# 홍동기 (Donggi Hong)
 
 <div align="right">
 <img src="https://komarev.com/ghpvc/?username=danggai&&style=flat-square" align="right" />
@@ -18,53 +18,62 @@
 
 <br/>  
 
-### Hello, I'm Donggi Hong!
+### 안녕하세요, 홍동기라고 합니다!  
+### Hello, I'm Donggi Hong!  
 
-Glad to See you.
+뵙게 되어 반갑습니다.  
+Glad to see you.  
 
-I am an Android developer who uses Kotlin, Coroutine, MVVM. 👨‍💻
+저는 Kotlin, Coroutine, MVVM 패턴을 주로 사용하는 안드로이드 개발자입니다. 👨‍💻  
+I am an Android developer who uses Kotlin, Coroutine, and MVVM. 👨‍💻  
 
-And I also did a little bit of web front-end development. 😄
+또, 약간의 웹 프론트엔드 개발 경험도 가지고 있습니다. 😄  
+I also have a bit of experience in web front-end development. 😄  
 
-and, Here is my [Resume / Cover Letter](https://www.notion.so/d5973bcb67ab4eb08a9225cec1ff83ac).
-
----
-
-
-### 🎲 Experience  
-- **Ajou Univ.** - Multiple majors in mathematics, computers & software *(Mar 2014 - Feb 2020)*  
-  
-
-- **[DANAL CO.](https://www.danalpay.com/main/main.aspx)** *(Dec 2019 ~ Nov 2024)*
-   - Android App developer *(Dec 2019 ~ Nov 2024)*
- 
-   - Web FrontEnd developer (with Vue3, TS) *(Mar 2024 ~ Nov 2024)*
-  
-
----
-
-
-### 🌺 Summary  
-
-- 🥕 I’m worked at [DANAL CO. ](https://www.danalpay.com/main/main.aspx)as a android developer.  
-  
-
-- 🌱 I am currently adapting to become familiar with Android trends.
-  
-
-- 📝 I regularly write articles on my [blog](https://velog.io/@danggai). ([old](https://danggai.github.io/))
+이건 제 [이력서 / 경력소개서](https://www.notion.so/d5973bcb67ab4eb08a9225cec1ff83ac)입니다.  
+And here is my [Resume / Cover Letter](https://www.notion.so/d5973bcb67ab4eb08a9225cec1ff83ac).  
 
 
 ---
 
 
-### 📜 I'm interested in..
+### 🎲 겅력 | Experience  
 
-- MVI Pattern
+- **아주대학교** *(2014년 3월 ~ 2020년 2월)*  
+  **Ajou Univ.** - Multiple majors in mathematics, computers & software *(Mar 2014 - Feb 2020)*  
 
-- Jetpack Compose
+- **[다날](https://www.danalpay.com/main/main.aspx)** *(2019년 12월 ~ 2024년 11월)*  
+  **[DANAL CO.](https://www.danalpay.com/main/main.aspx)** *(Dec 2019 - Nov 2024)*  
+  
+  - 안드로이드 앱 개발자 *(2019년 12월 ~ 2024년 11월)*  
+    Android App developer *(Dec 2019 ~ Nov 2024)*  
 
+  - 웹 프론트엔드 개발자 *(2024년 3월 ~ 2024년 11월)*  
+    Web FrontEnd developer (with Vue3, TS) *(Mar 2024 ~ Nov 2024)*  
+  
 
+---
+
+### 🌺 요약 | Summary  
+
+- 🥕 저는 [다날](https://www.danalpay.com/main/main.aspx)에서 안드로이드 개발자로 근무했습니다.  
+  🥕 I worked at [DANAL CO.](https://www.danalpay.com/main/main.aspx) as an Android developer.  
+
+- 🌱 현재 안드로이드 트렌드에 적응하며 익숙해지는 중입니다.  
+  🌱 I am currently adapting to become familiar with Android trends.  
+
+- 📝 종종 제 [블로그](https://velog.io/@danggai)에 글을 작성합니다. ([이전 블로그](https://danggai.github.io/))  
+  📝 I regularly write articles on my [blog](https://velog.io/@danggai). ([old blog](https://danggai.github.io/))  
+
+---
+
+### 📜 최근 관심사 | I'm interested in..  
+
+- MVI 패턴  
+  MVI Pattern  
+
+- 젯팩 컴포즈
+  Jetpack Compose  
 
 
 <br/>  
